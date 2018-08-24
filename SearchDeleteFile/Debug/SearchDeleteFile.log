@@ -1,0 +1,5 @@
+﻿  FileRecovery.cpp
+c:\users\vanli\desktop\searchdeletefile\searchdeletefile\filerecovery.cpp(248): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\vanli\desktop\searchdeletefile\searchdeletefile\filerecovery.cpp(304): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\vanli\desktop\searchdeletefile\searchdeletefile\filerecovery.cpp(356): warning C4018: “>”: 有符号/无符号不匹配
+  SearchDeleteFile.vcxproj -> C:\Users\vanli\Desktop\SearchDeleteFile\Debug\SearchDeleteFile.dll

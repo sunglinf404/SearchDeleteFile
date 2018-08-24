@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SearchDeleteFile", "SearchDeleteFile\SearchDeleteFile.vcxproj", "{5F5685BA-9E2A-415E-9F18-7BA363F6E0F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{5FF6CF3F-F23C-4CED-9B12-0EA2F000040E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5F5685BA-9E2A-415E-9F18-7BA363F6E0F3} = {5F5685BA-9E2A-415E-9F18-7BA363F6E0F3}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5685BA-9E2A-415E-9F18-7BA363F6E0F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F5685BA-9E2A-415E-9F18-7BA363F6E0F3}.Debug|Win32.Build.0 = Debug|Win32
+		{5F5685BA-9E2A-415E-9F18-7BA363F6E0F3}.Release|Win32.ActiveCfg = Release|Win32
+		{5F5685BA-9E2A-415E-9F18-7BA363F6E0F3}.Release|Win32.Build.0 = Release|Win32
+		{5FF6CF3F-F23C-4CED-9B12-0EA2F000040E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FF6CF3F-F23C-4CED-9B12-0EA2F000040E}.Debug|Win32.Build.0 = Debug|Win32
+		{5FF6CF3F-F23C-4CED-9B12-0EA2F000040E}.Release|Win32.ActiveCfg = Release|Win32
+		{5FF6CF3F-F23C-4CED-9B12-0EA2F000040E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

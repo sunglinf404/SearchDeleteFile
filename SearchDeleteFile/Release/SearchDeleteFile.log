@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Exception.cpp
+  Funcs.cpp
+  Base64.cpp
+  UrlConver.cpp
+  DeletedFile.cpp
+DeletedFile.cpp(768): warning C4018: “<”: 有符号/无符号不匹配
+  FileRecovery.cpp
+FileRecovery.cpp(248): warning C4018: “>”: 有符号/无符号不匹配
+FileRecovery.cpp(304): warning C4018: “>”: 有符号/无符号不匹配
+FileRecovery.cpp(356): warning C4018: “>”: 有符号/无符号不匹配
+  SearchDeleteFile.cpp
+  dllmain.cpp
+    正在创建库 C:\Users\vanli\Desktop\SearchDeleteFile\Release\SearchDeleteFile.lib 和对象 C:\Users\vanli\Desktop\SearchDeleteFile\Release\SearchDeleteFile.exp
+  正在生成代码
+  All 605 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SearchDeleteFile.vcxproj -> C:\Users\vanli\Desktop\SearchDeleteFile\Release\SearchDeleteFile.dll
